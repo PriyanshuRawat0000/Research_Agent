@@ -3,6 +3,7 @@ langchain>=0.2.0
 langchain-core>=0.2.0
 langchain-community>=0.2.0
 langchain-openai>=0.1.0
+langchain-mistralai>=1.1.5
 
 # OpenAI
 openai>=1.30.0
@@ -40,4 +41,7 @@ orjson>=3.9.0
 pydantic>=2.5.0
 
 # Optional (for advanced parsing / HTML cleanup)
+html5lib>=1.1nced parsing / HTML cleanup)
 html5lib>=1.1
+
+streamlit>=1.58.0
