@@ -19,7 +19,7 @@ llm0 = ChatMistralAI(
 
 llm1 = ChatMistralAI(
     model="mistral-small-latest",   
-    max_tokens=5000,
+    max_tokens=2000,
     temperature=0.2
 )
 llm2 = ChatMistralAI(
